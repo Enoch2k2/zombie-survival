@@ -1,21 +1,21 @@
 {
-  "name": "how-to-make-a-game-javascript-setup",
+  "name": "zombie-survival",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple Zombie Survival Game in HTML5 and Javascript",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Enoch2k2/how-to-make-a-game-javascript-setup.git"
+    "url": "git+https://github.com/Enoch2k2/zombie-survival"
   },
   "author": "Enoch Griffith",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Enoch2k2/how-to-make-a-game-javascript-setup/issues"
+    "url": "https://github.com/Enoch2k2/zombie-survival"
   },
-  "homepage": "https://github.com/Enoch2k2/how-to-make-a-game-javascript-setup#readme",
+  "homepage": "https://github.com/Enoch2k2/zombie-survival",
   "dependencies": {
     "express": "^4.16.2"
   },
